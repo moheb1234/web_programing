@@ -15,6 +15,3 @@ function calc($expression, $calcButton, $clearButton)
     return "";
 }
 
-
-
-
